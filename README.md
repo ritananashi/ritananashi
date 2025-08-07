@@ -1,3 +1,4 @@
+[![typograssy](https://typograssy.deno.dev/api?text=Welcome%20to%20My%20GitHub%20Profile!)](https://github.com/kawarimidoll/typograssy)  
 ![](https://komarev.com/ghpvc/?username=ritananashi) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/96296r)
 # My Status  
 <a href="https://github.com/anuraghazra/github-readme-stats">
