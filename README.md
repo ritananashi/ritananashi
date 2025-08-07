@@ -1,8 +1,13 @@
-![](https://komarev.com/ghpvc/?username=ritananashi) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/96296r)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)  
+### Hi there 👋 I'm ritananashi
+Love : 🎮 🍵 🖋️  
+Runteq（2024/9/4～2025/6/4） 
+  
+![](https://komarev.com/ghpvc/?username=ritananashi&style=for-the-badge) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/96296r?style=for-the-badge&logo=x)
 # My App  
 |[iroGraphica](https://irographica.com/)|
-| --- |
-| (画像) |
+| :---: |
+| ![](images/mbile_logo.png) |
 | 万年筆・ガラスペン用インクのレビュー投稿・共有サービス。<br>RUNTEQ卒業制作 |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritananashi&repo=irographica)](https://github.com/anuraghazra/github-readme-stats) |
 
