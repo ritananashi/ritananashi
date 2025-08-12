@@ -9,7 +9,7 @@ Runteq（2024/9/4～2025/6/4）
 | :---: |
 | ![](images/mbile_logo.png) |
 | 万年筆・ガラスペン用インクのレビュー投稿・共有サービス。<br>RUNTEQ卒業制作 |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritananashi&repo=irographica)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritananashi&repo=irographica)](https://github.com/ritananashi/irographica) |
 | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Rails](https://img.shields.io/badge/Rails7.2-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#) |
 
 # My Status  
