@@ -3,7 +3,7 @@
 Love : 🎮 🍵 🖋️  
 Runteq（2024/9/4～2025/6/4） 
   
-![](https://komarev.com/ghpvc/?username=ritananashi&style=for-the-badge) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/96296r?style=for-the-badge&logo=x)
+![](https://komarev.com/ghpvc/?username=ritananashi&style=for-the-badge) <a href="https://twitter.com/96296r" target="blank"><img src="https://img.shields.io/twitter/follow/96296r?logo=twitter&style=for-the-badge" alt="96296r" /></a>
 # My App  
 |[iroGraphica](https://irographica.com/)|
 | :---: |
@@ -11,6 +11,10 @@ Runteq（2024/9/4～2025/6/4）
 | 万年筆・ガラスペン用インクのレビュー投稿・共有サービス。<br>RUNTEQ卒業制作 |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritananashi&repo=irographica)](https://github.com/ritananashi/irographica) |
 | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Rails](https://img.shields.io/badge/Rails7.2-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#) |
+
+# My Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # My Status  
 ![](profile-3d-contrib/profile-season-animate.svg)  
