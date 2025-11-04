@@ -14,6 +14,7 @@ Runteq（2024/9/4～2025/6/4）
 
 # My Articles
 <!-- BLOG-POST-LIST:START -->
+- [【Rails】gem Administrateのカスタマイズ備忘録](https://qiita.com/ritananashi/items/6836526a57d12a8b18b8)
 - [【Rails7】画像付きの投稿を画像のアップロードなしで編集すると、添付画像が消えてしまう](https://qiita.com/ritananashi/items/07bec00a05a2195e6b04)
 <!-- BLOG-POST-LIST:END -->
 
