@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)  
 ### Hi there 👋 I'm ritananashi
 Love : 🎮 🍵 🖋️  
-Runteq（2024/9/4～2025/6/4） 
+Runteq61a（2024/9/4～2025/6/4） 
   
 ![](https://komarev.com/ghpvc/?username=ritananashi&style=for-the-badge) <a href="https://twitter.com/96296r" target="blank"><img src="https://img.shields.io/twitter/follow/96296r?logo=twitter&style=for-the-badge" alt="96296r" /></a>
 # My App  
